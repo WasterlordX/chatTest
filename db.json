@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "message": "first message",
+      "author": "typicode"
+    },
+    {
+      "author": "vova",
+      "message": "test2",
+      "id": 2
+    },
+    {
+      "author": "dmitry",
+      "message": "test one more time\n",
+      "id": 3
+    },
+    {
+      "author": "vasa",
+      "message": "123",
+      "id": 4
+    },
+    {
+      "author": "123",
+      "message": "dsadw",
+      "id": 5
+    },
+    {
+      "author": "vasa pupkin",
+      "message": "123",
+      "id": 6
+    },
+    {
+      "author": "vasa pupkin",
+      "message": "adwadw",
+      "id": 7
+    },
+    {
+      "author": "ss",
+      "message": "123",
+      "id": 8
+    },
+    {
+      "author": "Al susdah ali rasa",
+      "message": "wright something",
+      "id": 9
+    },
+    {
+      "author": "albert",
+      "message": "1123",
+      "id": 10
+    },
+    {
+      "author": "albert",
+      "message": "priver, vsem",
+      "id": 11
+    },
+    {
+      "author": "dasdw",
+      "message": "123123",
+      "id": 12
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "first_user"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
